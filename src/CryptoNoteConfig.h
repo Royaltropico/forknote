@@ -141,7 +141,7 @@ const uint64_t P2P_DEFAULT_INVOKE_TIMEOUT                    = 60 * 2 * 1000; //
 const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          // 5 seconds
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
-const char* const SEED_NODES[] = { "seed.bytecoin.org:8080", "85.25.201.95:8080", "85.25.196.145:8080", "85.25.196.146:8080", "85.25.196.144:8080", "5.199.168.138:8080", "62.75.236.152:8080", "85.25.194.245:8080", "95.211.224.160:8080", "144.76.200.44:8080" };
+const char* const SEED_NODES[] = { "62.4.16.100:45904", "62.210.144.195:45904", "62.210.144.197:45904" };
 
 
 struct CheckpointData {
